@@ -7,6 +7,7 @@ This project focuses on predicting customer churn for a telecommunications compa
 Project Highlights:
 
 Custom SVM Model: Implemented an SVM model from scratch, achieving superior performance compared to a pre-built SVM model.
+
 • Data Preprocessing:
 
 Applied label encoding for categorical features.
@@ -24,11 +25,6 @@ Workflow:
 
 Handled missing values by replacing them with the median.
 Standardized text values to ensure consistency.
-
-• Data Preprocessing:
-
-Converted categorical features to numerical values through label encoding.
-Applied StandardScaler to normalize the data.
 
 • Data Splitting:
 
